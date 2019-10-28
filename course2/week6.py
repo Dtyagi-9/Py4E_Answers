@@ -14,3 +14,4 @@ for line in handle:
 ls=sorted(ls.items())
 for x,y in ls:
     print(x,y)
+#extraction of string can be done using other possibilities as well
